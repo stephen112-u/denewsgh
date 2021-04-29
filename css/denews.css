@@ -62,3 +62,9 @@ a.nav-link:hover{
     font-size: 13px;
     font-weight: bold;
 }
+
+.navbar-light .navbar-toggler {
+    /* color: rgb(255 255 255 / 100%); */
+    color: #f5b208;
+    border-color: rgba(0,0,0,.1);
+}
