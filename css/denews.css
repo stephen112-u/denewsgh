@@ -1,5 +1,7 @@
 *{
     box-sizing: border-box;
+    /* overflow: auto; */
+
 }
 body{
     font-family: 'Playfair Display', serif;
