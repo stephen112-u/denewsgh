@@ -70,3 +70,50 @@ a.nav-link:hover{
     color: #f5b208;
     border-color: rgba(0,0,0,.1);
 }
+
+.bg-about{
+    background-color: #4F4F4F;
+}
+.jumbotron-aboutus{
+    width: 100%;
+    background-color: #f5b208;
+    margin: 0px auto;
+    position: relative;
+    top: 5%;
+    padding: 10px;
+}
+
+.jumbotron-aboutus-title{
+    background-color: #3F2E02;
+    padding: 2px;
+    width: 150px;
+    margin: 0 0 0 50px;
+    color: white;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+}
+
+.center-me{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.jumbotron-aboutus-logo{
+    width: 50%;
+    margin: 0 auto;
+}
+.about-us-content-motto{
+    font-weight: bold;
+    color: black;
+    font-size: 60px;
+}
+
+.about-us-content{
+    margin-top: 20px;
+}
+.about-us-text{
+    text-align: left;
+    color: black;
+}
